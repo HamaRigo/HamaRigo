@@ -49,112 +49,45 @@ Docker • CI/CD • GitHub Actions • Maven
 # 🧠 Key Projects
 
 ### 📡 Enterprise Messaging Hub
-
-Real-time communication platform supporting **1000+ concurrent users**
-
-**Features**
-
-• WebSocket real-time messaging  
-• JWT authentication  
-• Scalable microservice backend  
-
-**Stack**
-
-Spring Boot • Angular • WebSockets • JWT
-
----
+• WebSocket real-time messaging • JWT authentication • Scalable microservice backend  
+**Stack:** Spring Boot • Angular • WebSockets • JWT
 
 ### 🧾 OCR Fraud Detection System
-
-Automated document verification system using OCR and fraud scoring.
-
-**Features**
-
-• OCR extraction with Tesseract  
-• Fraud detection logic  
-• Secure microservices architecture  
-
-**Stack**
-
-Spring Boot • Tesseract OCR • MongoDB
-
----
+• OCR extraction with Tesseract • Fraud detection logic • Secure microservices  
+**Stack:** Spring Boot • Tesseract OCR • MongoDB
 
 ### 📦 Predictive Inventory Platform
-
-Inventory management system with predictive alerts.
-
-**Features**
-
-• Automated stock monitoring  
-• Secure REST APIs  
-• Inventory prediction logic  
-
-**Stack**
-
-Angular • Symfony • REST APIs
+• Automated stock monitoring • Secure REST APIs • Inventory prediction logic  
+**Stack:** Angular • Symfony • REST APIs
 
 ---
 
 # 🏗 Architecture Interests
-
-I enjoy building:
-
-• Distributed systems  
-• High-performance APIs  
-• Event-driven microservices  
-• Fintech infrastructure  
-• Scalable backend platforms  
+• Distributed systems • High-performance APIs • Event-driven microservices • Fintech infrastructure • Scalable backend platforms  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<!-- GitHub Stats -->
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-</p>
+<!-- Top Languages -->
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
----
+<!-- Trophies -->
+<img height="160" src="https://github-profile-trophy.vercel.app/?username=HamaRigo&theme=radical&no-frame=true&row=1&column=6"/>
 
-# 🔥 GitHub Streak
+<!-- Contribution Snake -->
+<img height="160" src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=HamaRigo&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamaRigo&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HamaRigo&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
 # 🌍 Connect With Me
 
-**LinkedIn**  
-https://linkedin.com/in/mohamed-bouallagui-mb
-
-**GitHub**  
-https://github.com/HamaRigo
+**LinkedIn:** https://linkedin.com/in/mohamed-bouallagui-mb  
+**GitHub:** https://github.com/HamaRigo
