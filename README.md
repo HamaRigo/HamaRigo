@@ -67,21 +67,18 @@ Docker • CI/CD • GitHub Actions • Maven
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Activity
 
 <p align="center">
 
-<!-- GitHub Stats -->
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-
-<!-- Top Languages -->
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-
-<!-- Trophies -->
-<img height="160" src="https://github-profile-trophy.vercel.app/?username=HamaRigo&theme=radical&no-frame=true&row=1&column=6"/>
-
 <!-- Contribution Snake -->
-<img height="160" src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg" height="160" alt="Contribution Snake"/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamaRigo&theme=react-dark&hide_border=true" height="160" alt="Contribution Graph"/>
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com/?user=HamaRigo&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 
 </p>
 
@@ -89,5 +86,5 @@ Docker • CI/CD • GitHub Actions • Maven
 
 # 🌍 Connect With Me
 
-**LinkedIn:** https://linkedin.com/in/mohamed-bouallagui-mb  
-**GitHub:** https://github.com/HamaRigo
+**LinkedIn:** [linkedin.com/in/mohamed-bouallagui-mb](https://linkedin.com/in/mohamed-bouallagui-mb)  
+**GitHub:** [github.com/HamaRigo](https://github.com/HamaRigo)
