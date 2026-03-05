@@ -10,9 +10,9 @@
 
 Software Engineer specializing in **Distributed Systems, Microservices Architecture, and Fintech Platforms**.
 
-I build **scalable backend systems**, **event-driven architectures**, and **secure APIs** for high-reliability platforms. My focus is on designing **resilient, high-performance systems** capable of handling real-world production workloads.
+I build **scalable backend systems**, **event-driven architectures**, and **secure APIs** for high-reliability platforms.
 
-📍 Doha, Qatar
+📍 Doha, Qatar  
 📧 [mohamed.bouallagui001@gmail.com](mailto:mohamed.bouallagui001@gmail.com)
 
 ---
@@ -24,31 +24,24 @@ I build **scalable backend systems**, **event-driven architectures**, and **secu
 </p>
 
 ### Backend
-
 Java • Spring Boot • Node.js • Symfony
 
 ### Frontend
-
 Angular • React • TypeScript
 
 ### Architecture
-
 Microservices • Distributed Systems • REST APIs • Event-Driven Systems
 
 ### Messaging
-
 Kafka • RabbitMQ • WebSockets
 
 ### Databases
-
 PostgreSQL • MongoDB • Redis
 
 ### Security
-
 Keycloak • OAuth2 • JWT • OIDC
 
 ### DevOps
-
 Docker • CI/CD • GitHub Actions • Maven
 
 ---
@@ -57,13 +50,13 @@ Docker • CI/CD • GitHub Actions • Maven
 
 ### 📡 Enterprise Messaging Hub
 
-Real-time communication platform supporting **1000+ concurrent users**.
+Real-time communication platform supporting **1000+ concurrent users**
 
 **Features**
 
-• Real-time messaging using WebSockets
-• JWT-based authentication
-• Scalable backend architecture
+• WebSocket real-time messaging  
+• JWT authentication  
+• Scalable microservice backend  
 
 **Stack**
 
@@ -73,13 +66,13 @@ Spring Boot • Angular • WebSockets • JWT
 
 ### 🧾 OCR Fraud Detection System
 
-Automated document verification system using OCR and backend fraud scoring logic.
+Automated document verification system using OCR and fraud scoring.
 
 **Features**
 
-• OCR extraction using Tesseract
-• Fraud detection scoring
-• Secure microservice architecture
+• OCR extraction with Tesseract  
+• Fraud detection logic  
+• Secure microservices architecture  
 
 **Stack**
 
@@ -89,13 +82,13 @@ Spring Boot • Tesseract OCR • MongoDB
 
 ### 📦 Predictive Inventory Platform
 
-Inventory management system with predictive alerts and automation.
+Inventory management system with predictive alerts.
 
 **Features**
 
-• Automated inventory monitoring
-• RESTful API backend
-• Secure data management
+• Automated stock monitoring  
+• Secure REST APIs  
+• Inventory prediction logic  
 
 **Stack**
 
@@ -107,29 +100,30 @@ Angular • Symfony • REST APIs
 
 I enjoy building:
 
-• Distributed systems
-• High-performance APIs
-• Event-driven microservices
-• Fintech infrastructure
-• Scalable backend platforms
+• Distributed systems  
+• High-performance APIs  
+• Event-driven microservices  
+• Fintech infrastructure  
+• Scalable backend platforms  
 
 ---
 
 # 📊 GitHub Stats
 
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
+
+---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=HamaRigo&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=HamaRigo&theme=tokyonight"/>
 </p>
 
 ---
@@ -142,10 +136,26 @@ I enjoy building:
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HamaRigo&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 # 🌍 Connect With Me
 
-LinkedIn
+**LinkedIn**  
 https://linkedin.com/in/mohamed-bouallagui-mb
 
-GitHub
+**GitHub**  
 https://github.com/HamaRigo
