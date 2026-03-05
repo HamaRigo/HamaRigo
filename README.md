@@ -13,7 +13,9 @@ Software Engineer specializing in **Distributed Systems, Microservices Architect
 I build **scalable backend systems**, **event-driven architectures**, and **secure APIs** for high-reliability platforms.
 
 📍 Doha, Qatar  
-📧 [mohamed.bouallagui001@gmail.com](mailto:mohamed.bouallagui001@gmail.com)
+📧 [mohamed.bouallagui001@gmail.com](mailto:mohamed.bouallagui001@gmail.com)  
+
+**Languages:** English 🇬🇧 • French 🇫🇷 • Arabic 🇸🇦  
 
 ---
 
