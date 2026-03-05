@@ -1,51 +1,69 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Mohamed%20Bouallagui&fontSize=38&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HamaRigo&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 # Hi, I'm Mohamed Bouallagui 👋
 
-Software Engineer specializing in **Distributed Systems, Microservices, and Fintech Platforms**.
+Software Engineer specializing in **Distributed Systems, Microservices Architecture, and Fintech Platforms**.
 
-I build **scalable backend systems**, **event-driven architectures**, and **secure APIs** for high-reliability platforms.
+I build **scalable backend systems**, **event-driven architectures**, and **secure APIs** for high-reliability platforms. My focus is on designing **resilient, high-performance systems** capable of handling real-world production workloads.
 
-📍 Doha, Qatar  
-📧 mohamed.bouallagui001@gmail.com  
+📍 Doha, Qatar
+📧 [mohamed.bouallagui001@gmail.com](mailto:mohamed.bouallagui001@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-**Backend**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,symfony,angular,react,ts,docker,kafka,postgres,mongodb,redis,githubactions,maven"/>
+</p>
+
+### Backend
 
 Java • Spring Boot • Node.js • Symfony
 
-**Frontend**
+### Frontend
 
 Angular • React • TypeScript
 
-**Architecture**
+### Architecture
 
-Microservices • Event-Driven Systems • REST APIs
+Microservices • Distributed Systems • REST APIs • Event-Driven Systems
 
-**Messaging**
+### Messaging
 
 Kafka • RabbitMQ • WebSockets
 
-**Databases**
+### Databases
 
 PostgreSQL • MongoDB • Redis
 
-**Security**
+### Security
 
 Keycloak • OAuth2 • JWT • OIDC
 
-**DevOps**
+### DevOps
 
 Docker • CI/CD • GitHub Actions • Maven
 
 ---
 
-## 🧠 Key Projects
+# 🧠 Key Projects
 
 ### 📡 Enterprise Messaging Hub
 
-Real-time communication platform supporting **1000+ concurrent users**
+Real-time communication platform supporting **1000+ concurrent users**.
+
+**Features**
+
+• Real-time messaging using WebSockets
+• JWT-based authentication
+• Scalable backend architecture
 
 **Stack**
 
@@ -55,7 +73,13 @@ Spring Boot • Angular • WebSockets • JWT
 
 ### 🧾 OCR Fraud Detection System
 
-Automated document verification using **Tesseract OCR** and backend scoring logic.
+Automated document verification system using OCR and backend fraud scoring logic.
+
+**Features**
+
+• OCR extraction using Tesseract
+• Fraud detection scoring
+• Secure microservice architecture
 
 **Stack**
 
@@ -65,7 +89,13 @@ Spring Boot • Tesseract OCR • MongoDB
 
 ### 📦 Predictive Inventory Platform
 
-Inventory system with predictive alerts and automation.
+Inventory management system with predictive alerts and automation.
+
+**Features**
+
+• Automated inventory monitoring
+• RESTful API backend
+• Secure data management
 
 **Stack**
 
@@ -73,21 +103,46 @@ Angular • Symfony • REST APIs
 
 ---
 
-## 🏗 Architecture Interests
+# 🏗 Architecture Interests
 
 I enjoy building:
 
-• Distributed systems  
-• High-performance APIs  
-• Event-driven microservices  
-• Fintech infrastructure  
+• Distributed systems
+• High-performance APIs
+• Event-driven microservices
+• Fintech infrastructure
+• Scalable backend platforms
 
 ---
 
-## 🌍 Connect With Me
+# 📊 GitHub Stats
 
-LinkedIn  
+| Stats                                                                                                            | Languages                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamaRigo\&show_icons=true\&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamaRigo\&layout=compact\&theme=tokyonight) |
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=HamaRigo&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamaRigo&theme=react-dark"/>
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+LinkedIn
 https://linkedin.com/in/mohamed-bouallagui-mb
 
-GitHub  
+GitHub
 https://github.com/HamaRigo
