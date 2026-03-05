@@ -117,11 +117,14 @@ I enjoy building:
 
 # 📊 GitHub Stats
 
-| Stats                                                                                                            | Languages                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamaRigo\&show_icons=true\&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamaRigo\&layout=compact\&theme=tokyonight) |
 
----
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
 
 # 🔥 GitHub Streak
 
