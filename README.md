@@ -112,9 +112,8 @@ I enjoy building:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HamaRigo&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HamaRigo&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
 </p>
 
@@ -123,7 +122,7 @@ I enjoy building:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HamaRigo&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=HamaRigo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -131,7 +130,7 @@ I enjoy building:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamaRigo&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamaRigo&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -139,7 +138,7 @@ I enjoy building:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HamaRigo&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HamaRigo&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -147,7 +146,7 @@ I enjoy building:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/HamaRigo/HamaRigo/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
