@@ -16,7 +16,7 @@ I build **scalable backend systems**, **event-driven architectures**, **secure A
 
 📍 Doha, Qatar · Transferable Residence Permit, immediately available
 📧 [mohamed.bouallagui001@gmail.com](mailto:mohamed.bouallagui001@gmail.com)
-🔗 [linkedin.com/in/mohamed-bouallagui-mb](https://linkedin.com/in/mohamed-bouallagui-mb) · [rigoomarine.com](https://rigoomarine.com)
+🔗 [linkedin.com/in/mohamed-bouallagui-mb](https://linkedin.com/in/mohamed-bouallagui-mb) ·
 **Languages:** Arabic 🇸🇦 (Native) • English 🇬🇧 (C1) • French 🇫🇷 (C1)
 
 ---
